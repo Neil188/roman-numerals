@@ -1,0 +1,56 @@
+[
+
+    {
+        "symbol": "M",
+        "val": 1000
+    },
+    {
+        "symbol": "CM",
+        "val": 900
+    },
+    {
+        "symbol": "D",
+        "val": 500
+    },
+    {
+        "symbol": "CD",
+        "val": 400
+    },
+    {
+        "symbol": "C",
+        "val": 100
+    },
+    {
+        "symbol": "XC",
+        "val": 90
+    },
+    {
+        "symbol": "L",
+        "val": 50
+    },
+    {
+        "symbol": "XL",
+        "val": 40
+    },
+    {
+        "symbol": "X",
+        "val": 10
+    },
+    {
+        "symbol": "IX",
+        "val": 9
+    },
+    {
+        "symbol": "V",
+        "val": 5
+    },
+    {
+        "symbol": "IV",
+        "val": 4
+    },
+    {
+        "symbol": "I",
+        "val": 1
+    }
+
+]
